@@ -12,11 +12,11 @@
 
 Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by Javascript, and jQuery.
 
-When loading your app the current day will be displayed.
-The page will show all the timeblocks for a standard busness day.
-Each timeblock should be color coded to indicate whether it is in the past, present, or future.
-A user can enter an event by clicking on a timeblock.
-Saving an event is saved in local storage.
-Saved events will persist when refreshing or closing the browser.
+When loading your app the current day will be displayed.<br>
+The page will show all the timeblocks for a standard busness day. <br>
+Each timeblock should be color coded to indicate whether it is in the past, present, or future.<br>
+A user can enter an event by clicking on a timeblock. <br>
+Saving an event is saved in local storage. <br>
+Saved events will persist when refreshing or closing the browser. <br>
 
 <h2> Link to deployed application <h2> https://almonzorhoden.github.io/day-planner/
