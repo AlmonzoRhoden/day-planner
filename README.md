@@ -1,4 +1,4 @@
-<h1 align = "center" > Day Planner </h1>
+<h1 align = "center" > Day Planner</h1>
 
 <h2>Preview of deployed application on various devices<h2>
 
