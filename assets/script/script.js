@@ -70,3 +70,6 @@ $(".saveBtn").click(function () {
     }
     $(this).parent('div').children('div').children('textarea').replaceWith($('<textarea>' + appointText.addClass("textarea") + '</textarea>'));
 })
+
+//Footer automation code
+document.getElementById("footer-year").textContent = new Date().getFullYear();

@@ -124,4 +124,10 @@ body {
     height: auto;
   }
   
-  
+  #supportBtn{
+    margin: auto;
+    text-align: center;
+    font-size: larger;
+    width: 200px;
+    display: block;
+  }
